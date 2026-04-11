@@ -1,4 +1,4 @@
-![logo](https://github.com/vivek2024jha-ops/vivek2024jha-ops/blob/main/Github%20banner.png)
+![logo](https://github.com/vivek2024jha-ops/vivek2024jha-ops/blob/main/github%20banner%20vik.jpeg)
 <h1 align="center">Hi 👋, I'm Vivek Jha</h1>
 <h3 align="center">SOC Analyst in Progress | Learning Cybersecurity, SIEM & Threat Detection | India</h3>
 
